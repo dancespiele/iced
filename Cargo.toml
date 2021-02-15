@@ -1,6 +1,6 @@
 [package]
-name = "iced-okspiel"
-version = "0.3.0"
+name = "iced"
+version = "0.2.0"
 authors = ["Héctor Ramón Jiménez <hector0193@gmail.com>"]
 edition = "2018"
 description = "A cross-platform GUI library inspired by Elm"
